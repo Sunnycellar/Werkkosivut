@@ -1,0 +1,52 @@
+.header {
+    background-color: #b2d0df;
+    padding: 25px;
+    text-align: center;
+
+} 
+
+.topnav {
+    overflow: hidden;
+    background-color: #8b8d8c;
+  }
+  
+ 
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  aside {
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: lightgray;
+  }
+  body {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    } 
+  section {
+    background-color: azure; 
+
+  }
+  h2 {
+background-color: cadetblue;
+
+  }
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(215, 216, 104);
+    color: white;
+  }
+ 
+
+
+

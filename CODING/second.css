@@ -1,0 +1,18 @@
+body {
+    background-color: lightseagreen;
+}
+figure {float: right; width: 260;margin: 10px;}
+figcaption {text-align: center;font-size: .9em;
+font-style: italic;}
+
+h1 {background-color:greenyellow ;height: 100px; width: 600px; padding-top: 30px;}
+
+#rreunat {
+    border-radius: 25px;
+    background: #8e8e8e;
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px;
+    width: 200px;
+    height: 40px;
+}
